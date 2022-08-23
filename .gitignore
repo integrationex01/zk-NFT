@@ -1,0 +1,5 @@
+/.vscode
+/contract
+/go.mod
+/go.sum
+/vendor
